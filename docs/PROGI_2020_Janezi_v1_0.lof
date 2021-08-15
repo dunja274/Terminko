@@ -1,0 +1,43 @@
+\babel@toc {croatian}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Slika aplikacije "UJLAUNDRY"}}{7}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Slika aplikacije "Washing machine with a QR code"}}{8}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Slika aplikacije za rezervaciju termina iz Norveške}}{8}{figure.2.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Slika dijagrama obrasca uporabe registriranih i neregistriranih korisnika}}{25}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Slika dijagrama obrasca uporabe zaposlenika i administratora}}{26}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Slika dijagrama obrasca uporabe administratora}}{26}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sekvencijski dijagram za UC1 i UC2}}{28}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Sekvencijski dijagram za UC3}}{29}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sekvencijski dijagram za UC4}}{30}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Sekvencijski dijagram za UC11}}{31}{figure.3.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Arhitektura sustava}}{33}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Relacijska shema baze podataka}}{39}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Relacijska shema Django baze podataka}}{40}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Dijagram razreda - dio Models}}{42}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Dijagram razreda - dio Views}}{43}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Dijagram razreda - dio Templates}}{44}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Dijagram aktivnosti}}{47}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Dijagram komponenti}}{48}{figure.4.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Ispitni slučajevi vezani za prijavu korisnika}}{51}{figure.5.1}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Ispitni slučajevi vezani za prijavu korisnika}}{52}{figure.5.2}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Ispitni slučajevi vezani za vraćanje košara}}{53}{figure.5.3}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Ispitni slučajevi vezani za rezervaciju termina, slika 1/2}}{54}{figure.5.4}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Ispitni slučajevi vezani za rezervaciju termina, slika 2/2}}{54}{figure.5.5}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Pokretanje svih ispitnih slučajeva u terminalu}}{55}{figure.5.6}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Mapa za frontend: terminko}}{57}{figure.5.7}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Mapa za backend: terminko1}}{58}{figure.5.8}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Konfiguracija za frontend}}{58}{figure.5.9}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Buildpack za frontend}}{59}{figure.5.10}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Procfile za frontend}}{59}{figure.5.11}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Promjena axios base-URL}}{60}{figure.5.12}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Postavljanje Postgres baze podataka na heroku}}{61}{figure.5.13}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Procfile na backendu}}{61}{figure.5.14}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Postavljanje Postgres konfiguracije u settings.py}}{62}{figure.5.15}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Postavljanje cors whitelist u settings.py}}{62}{figure.5.16}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Postavljanje allowed hosts varijable u settings.py}}{62}{figure.5.17}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Prikaz stanja na heroku po završetku deploya}}{63}{figure.5.18}%
+\addvspace {10\p@ }
